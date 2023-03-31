@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: challenge3.ClassroomTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.025 s <<< FAILURE! - in challenge3.ClassroomTest
+testgetMeanSucces  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.NullPointerException
+	at challenge3.ClassroomTest.<init>(ClassroomTest.java:13)
+
